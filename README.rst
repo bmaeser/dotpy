@@ -2,4 +2,6 @@
 dotpy
 =================
 
-nothing here yet
+work in progress / dummy repo
+
+do not use!
